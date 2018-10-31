@@ -991,7 +991,7 @@
     "assets.mimetypes.application/epub_zip": "EPUB ebook",
     "assets.mimetypes.application/msword": "Word document",
     "assets.mimetypes.application/pdf": "PDF document",
-    "assets.mimetypes.application/vnd.moodle.backup": "Moodle backup",
+    "assets.mimetypes.application/vnd.moodle.backup": "ABA backup",
     "assets.mimetypes.application/vnd.ms-excel": "Excel spreadsheet",
     "assets.mimetypes.application/vnd.ms-excel.sheet.macroEnabled.12": "Excel 2007 macro-enabled workbook",
     "assets.mimetypes.application/vnd.ms-powerpoint": "Powerpoint presentation",
